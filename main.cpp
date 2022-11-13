@@ -65,7 +65,8 @@ void printfPila(Nodo *pila)
         aux = aux->next;
     }
 }
-
+//err = 0;
+//string count = argv[2];
 int main(int argc, char *argv[])
 {
     // comprobacion de  argumentos anteriores
