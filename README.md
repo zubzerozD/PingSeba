@@ -1,4 +1,4 @@
-# PingSeba
+# PingSebastian Canales
 ## Entrada
 Archivo con direcciones IP. Archivo de texto con listado de direcciones IP a monitorizar.
 1. Cantidad de paquetes a enviar. Cantidad de paquetes que enviara el comando ping a
